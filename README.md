@@ -1,4 +1,4 @@
-# lovingpaw
+# LovingPaw
 
 # Overview
 
