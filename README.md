@@ -4,10 +4,7 @@
 
 Our development team will add value to the Loving Paw by:
 
-  Centralizing the following items to the client's domain (thelovingpaw.com): 
-    Shopping Cart
-    Blog
-    Site Forum (optional)
+  Centralizing the following items to the client's domain (thelovingpaw.com): Shopping Cart, Blog, Site Forum (optional)
     
   Redesigning and implementing new site UI (Look & Feel)
   
