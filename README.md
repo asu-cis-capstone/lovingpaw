@@ -22,12 +22,12 @@ One of the clients goals is to increase profitability in order to increase donat
 
 #Contributors
 
-*Jeffrey DeSpain
-*Mark Zvone
-*Ron Berg
-*Sohaib Hegazy
+* Jeffrey DeSpain
+* Mark Zvone
+* Ron Berg
+* Sohaib Hegazy
 
 #Release Notes v0.1
 
-Mock ups of site design
-Look and Feel Ideas
+* Mock ups of site design
+* Look and Feel Ideas
