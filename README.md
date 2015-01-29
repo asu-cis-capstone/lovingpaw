@@ -18,7 +18,12 @@ One of the clients goals is to increase profitability in order to increase donat
 
 * Establish contact and meet with our client
 * Meet as a team to discuss requirements, build options and present those to the client for selection
-
+* Design new UI with "rustic modern" feel
+* Design new shopping cart
+* Incorporate blog and user forum to new site
+* Enable links to partner sites (i.e. Athletes for Animals)
+* Research and apply email campaign to determine what drives traffic to her site
+* Instruct user on how to manage her new site 
 
 #Contributors
 
