@@ -1,0 +1,16 @@
+                                Site-build steps taken:
+1) Created admin account using the capstone440@gmail account. 
+
+2) Applied the "New Standard" theme from Shopify's theme shop.
+
+3) made modification to product.liquid in the "theme editor" (Admin/Themes/Customize Theme/Edit HTML/CSS/Templates/product.liquid) from the admin panel to add collapsable engraving text field should
+a customer choose to add customizations to a qualifying Tag Line ID. Followed the following tutorial : 
+http://the-new-standard-theme.myshopify.com/blogs/tutorials/6388020-using-line-item-properties-to-add-an-engraving-option-to-a-product
+
+4) Also incorporated, from following the above-referenced tutorial, a new liquid file in the "theme editor" section (Admin/Themes/Customize Theme/Edit HTML/CSS/Templates/product.liquid)
+to implement the benefits in step 3 (i.e. the collapsable customization field) more easily in future implementations. Should there
+be an addition of products with qualifying customizations, this new file, titled "product.monogram.liquid" will act as a "template"
+giving the product page the benefits from step 3. Validation via HTML5 coding, was incorporated to make entries into the collapsable
+field mandatory upon selection of a customization.
+
+5) 
