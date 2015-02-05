@@ -18,11 +18,18 @@ an option for the customer. used tutorial located at: http://docs.shopify.com/su
 
                                 Could not get #5 working. Will postpone for later time.
 
-6) In-Progress: Migrating tag-line ID's and connecting all possible user selections to a Tag-Line ID template
+6) Migrated tag-line ID's and connected all possible user selections currently supported in Etsy to 2 Tag-Line ID templates
+usable within Shopify. Differences in their use, is explained below. All steps taken have been noted so as to provide a 
+walk-through to TLP. 
 
 7) Imported all Tag-Line-ID products. Utilized 2 templates, product.monogram.liquid, and product.nameandnumberstandard.liquid.
 The use of these templates is for future ease in adding products with, and without standard stamping options. Manipulating premium
 options is much easier done from the master template, but with few tags with standard name and number stamping, different templates
 were warranted.
 
-8) 
+8) Imported all items in the T-Shirt category from etsy into the Shopify platform using the standard product.liquid theme in
+Shopify. Sizes and inventory levels were transferred as well. *Check with TLP if inventory levels from Etsy were absolute, or 
+if inventory levels differ from current levels.
+
+9) In Progress: Importing remaining products and deciding on utilizing/modifying current templates to accomodate. Will discuss
+options with the group following class on 2/5/15 before proceeding. 
