@@ -13,4 +13,16 @@ be an addition of products with qualifying customizations, this new file, titled
 giving the product page the benefits from step 3. Validation via HTML5 coding, was incorporated to make entries into the collapsable
 field mandatory upon selection of a customization.
 
-5) 
+5) Working currently on defaulting product pages to display a "select an option" for drop-down menus in lieu of auto-selecting
+an option for the customer. used tutorial located at: http://docs.shopify.com/support/your-website/themes/how-to-add-a-pick-an-option-to-drop-downs
+
+                                Could not get #5 working. Will postpone for later time.
+
+6) In-Progress: Migrating tag-line ID's and connecting all possible user selections to a Tag-Line ID template
+
+7) Imported all Tag-Line-ID products. Utilized 2 templates, product.monogram.liquid, and product.nameandnumberstandard.liquid.
+The use of these templates is for future ease in adding products with, and without standard stamping options. Manipulating premium
+options is much easier done from the master template, but with few tags with standard name and number stamping, different templates
+were warranted.
+
+8) 
