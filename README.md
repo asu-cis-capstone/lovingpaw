@@ -37,3 +37,13 @@ One of the clients goals is to increase profitability in order to increase donat
 
 * Mock ups of site design
 * Look and Feel Ideas
+
+#Release Notes v0.2
+
+*Most of Site Design/Development is complete
+*Shopify provides hosting, site building software, apps which act as add-ins
+*List of pages developed:
+  *Front Page
+  *Store
+  *About Us
+  *Contact Us
