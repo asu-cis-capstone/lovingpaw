@@ -1,9 +1,9 @@
 [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/lovingpaw.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/lovingpaw)
 # LovingPaw
 
-# v0.2 Documentation
+v0.2 Documentation
 
-#The documentation in here lists individually the steps taken to recreate The Loving Paw site on Shopify.  The following pages
+The documentation in here lists individually the steps taken to recreate The Loving Paw site on Shopify.  The following pages
  and features have been created and documented thus far:
 
 * Creating a Shopify account
