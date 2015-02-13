@@ -14,8 +14,7 @@
 * Creating a contact us page
 * Creating a site footer
 
-#Also included is the first draft of a User Guide that will be presented to the client at the project completion that will detail 
- steps required in an organized fashion.
+Also included is the first draft of a User Guide that will be presented to the client at the project completion that will detail steps required in an organized fashion.
  
 #Contributors
 
