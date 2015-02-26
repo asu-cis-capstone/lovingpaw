@@ -8,8 +8,8 @@ users would like to see as well as stylistic choices.
 User likes
 
 * Drop down products menu
-* "About Us" page picutre and information
-* Shopping Cart setup and site pervasiveness
+* "About Us" page picture and information
+* Shopping Cart setup and viewability
 * Product Photos
 
 User dislikes
