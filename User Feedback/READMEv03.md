@@ -24,7 +24,7 @@ Changes
 * Added a new site logo to increase visual appeal
 * Added borders to help distinguish frontpage sections
 * Will discuss news section and resource section with client
-* Testing new theme will better visual appeal
+* Testing new theme with better visual appeal
 
 #Contributors
 
