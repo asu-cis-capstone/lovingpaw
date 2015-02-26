@@ -29,7 +29,7 @@ Changes
 #Contributors
 
 * Jeffrey DeSpain
-* Mark Zvone
+* Mark Zovne
 * Ron Berg
 * Sohaib Hegazy
 
