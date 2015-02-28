@@ -1,0 +1,46 @@
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<p><a href="http://www.azhumane.org/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/slideshow_4.jpg?15046151862941008552" alt="Arizona Humane Society" width="400" height="139" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+				</div>
+				<div>
+					<p style="text-align:left; padding-left:40px; padding-right:40px;"><span>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</span></p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<p><a href="https://www.petfinder.com/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/petfinderFoundationLogo_1.jpg?6285481216524644659" alt="petfinder.com" width="400" height="139" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+				</div>
+				<div>
+					<p style="text-align:left; padding-left:40px; padding-right:40px;"><span>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</span></p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<p><a href="http://www.adoptapet.com/" onclick="window.open(this.href); return false;"><img src="///cdn.shopify.com/s/files/1/0760/5531/files/adopt_a_pet_logo_tm-2.gif?12343470849788076921" alt="Adopt A Pet" width="400" height="139" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+				</div>
+				<div>
+					<p style="text-align:left; padding-left:40px; padding-right:40px;"><span>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</span></p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
