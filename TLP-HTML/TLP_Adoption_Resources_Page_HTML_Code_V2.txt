@@ -1,0 +1,65 @@
+<!-- In the store's Admin panel, click the "Settings" button, which will take you to the "general" page. Click the "Files" button, which will take to to the "files page". Click the "Upload files" button near the top right of the page. Navigate to \\TLP-Images\TLP-ResourcePage-Images. Select the image you would like to upload. ****Not Completed****MZ
+
+Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources 
+	 --> 
+
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<p><a href="http://athletesforanimals.org/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/slideshow_2.jpg?12668897661812046637" alt="Arizona Humane Society" width="500" height="160" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+				</div>
+				<div>
+					<p style="text-align: left; padding-left:40px; padding-right:40px; margin-left: auto; margin-right: auto;">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<p><a href="http://www.azhumane.org/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/slideshow_4.jpg?15046151862941008552" alt="Arizona Humane Society" width="400" height="139" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+				</div>
+				<div>
+					<p style="text-align: left; padding-left: 40px; padding-right: 40px; margin-left: auto; margin-right: auto;">The Arizona Humane Society is one of the most recognizable names in pet adoption resources in Arizona.  They offer a number of pet and adoption related services broken down for dogs, cats and critters.  Additionally, they provide contacts to spay/neuter pets, get pet vaccinations, dog training classes, and tips for animal behavior and care.  If you're in Arizona and need help with pet adoption, look no further than AHS for your needs.</p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br /> <br />
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<p><a href="https://www.petfinder.com/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/petfinderFoundationLogo_1.jpg?6285481216524644659" alt="Pet Finder" width="400" height="139" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+				</div>
+				<div>
+					<p style="text-align: left; padding-left: 40px; padding-right: 40px; margin-left: auto; margin-right: auto;">Not in Arizona, but still looking for more information about pet adoption?  Petfinder.com is a nationwide database (including Canada and Mexico) of animal shelters and adoption agencies for anyone looking to find a pet for themselves or their family. With almost 14,000 resources to search from, Petfinder helps people who don't know where else to look a chance to find the perfect animal for them.  Petfinder is updated daily so those people looking for a new family member don't need to worry that their new animal has already been taken.</p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br /> <br />
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<p><a href="http://www.adoptapet.com/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/adopt_a_pet_logo_tm-2.gif?12343470849788076921" alt="Adopt A Pet" width="400" height="139" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+				</div>
+				<div>
+					<p style="text-align: left; padding-left: 40px; padding-right: 40px; margin-left: auto; margin-right: auto;">Adoptapet.com also features national pet adoption resources, searchable by type of pet, location and shelter. They also feature ways to get involved in the pet adoption community, pet care tips and a blog to get some pet tips from real pet owners who like to share their own experiences.</p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
