@@ -12,7 +12,9 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p><a href="http://athletesforanimals.org/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAthletesForAnimalsLogo.jpg?4201062743367857525" alt="Arizona Humane Society"/></a></p>
+							<a href="http://athletesforanimals.org/" target="_blank" >
+								<img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAthletesForAnimalsLogo.jpg?4201062743367857525" alt="Arizona Humane Society"/>
+							</a>
 						</div>
 					</div>
 				</div>
@@ -42,7 +44,9 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform"
 						<div class="grid-item medium--four-fifths">
-							<p><a href="http://www.azhumane.org/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesArizonaHumanSocietyLogo.jpg?4201062743367857525" /></a></p>
+							<a href="http://www.azhumane.org/" target="_blank" >
+								<img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesArizonaHumanSocietyLogo.jpg?4201062743367857525" />
+							</a>
 						</div>
 					</div>
 				</div>
@@ -71,7 +75,9 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p><a href="https://www.petfinder.com/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesPetFinderLogo.jpg?4201062743367857525" alt="Pet Finder" /></a></p>
+							<a href="https://www.petfinder.com/" target="_blank" >
+								<img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesPetFinderLogo.jpg?4201062743367857525" alt="Pet Finder" />
+							</a>
 						</div>
 					</div>
 				</div>
@@ -102,7 +108,9 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div>
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p><a href="http://www.adoptapet.com/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAdoptAPetLogo.jpg?4201062743367857525" alt="Adopt A Pet"  /></a></p>
+							<a href="http://www.adoptapet.com/" target="_blank" >
+								<img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAdoptAPetLogo.jpg?4201062743367857525" alt="Adopt A Pet"  />
+							</a>
 						</div>
 					</div>
 				</div>
