@@ -19,7 +19,13 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">		
-							<p>Athletes for Animals is a non-profit group of professional athletes who lend their voices to the animal adoption and rescue community.  In addition, they provide training and resources for people interested in adoption and raise funds for various adoption services.  Part of the revenues raised on this site go to supporting Athletes for Animals' mission!</p>
+							<p>
+								Athletes for Animals is a non-profit group of professional athletes who lend their
+								voices to the animal adoption and rescue community.  In addition, they provide
+								training and resources for people interested in adoption and raise funds for
+								various adoption services.  Part of the revenues raised on this site go to supporting
+								Athletes for Animals' mission!
+							</p>
 						</div>
 					</div>
 				</div>
@@ -43,7 +49,13 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p>The Arizona Humane Society is one of the most recognizable names in pet adoption resources in Arizona.  They offer a number of pet and adoption related services broken down for dogs, cats and critters.  Additionally, they provide contacts to spay/neuter pets, get pet vaccinations, dog training classes, and tips for animal behavior and care.  If you're in Arizona and need help with pet adoption, look no further than AHS for your needs.</p>
+							<p>
+								The Arizona Humane Society is one of the most recognizable names in pet adoption
+								resources in Arizona.  They offer a number of pet and adoption related services broken
+								down for dogs, cats and critters.  Additionally, they provide contacts to spay/neuter pets,
+								get pet vaccinations, dog training classes, and tips for animal behavior and care.  If
+								you're in Arizona and need help with pet adoption, look no further than AHS for your needs.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -66,7 +78,15 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p>Not in Arizona, but still looking for more information about pet adoption?  Petfinder.com is a nationwide database (including Canada and Mexico) of animal shelters and adoption agencies for anyone looking to find a pet for themselves or their family. With almost 14,000 resources to search from, Petfinder helps people who don't know where else to look a chance to find the perfect animal for them.  Petfinder is updated daily so those people looking for a new family member don't need to worry that their new animal has already been taken.</p>
+							<p>
+								Not in Arizona, but still looking for more information about pet adoption?  
+								Petfinder.com is a nationwide database (including Canada and Mexico) of animal shelters and
+								adoption agencies for anyone looking to find a pet for themselves or their family. With
+								almost 14,000 resources to search from, Petfinder helps people who don't know where else to
+								look a chance to find the perfect animal for them.  Petfinder is updated daily so those
+								people looking for a new family member don't need to worry that their new animal has
+								already been taken.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -89,7 +109,12 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p>Adoptapet.com also features national pet adoption resources, searchable by type of pet, location and shelter. They also feature ways to get involved in the pet adoption community, pet care tips and a blog to get some pet tips from real pet owners who like to share their own experiences.</p>
+							<p>
+								Adoptapet.com also features national pet adoption resources, searchable by type of pet,
+								location and shelter. They also feature ways to get involved in the pet adoption community,
+								pet care tips and a blog to get some pet tips from real pet owners who like to share their
+								own experiences.
+							</p>
 						</div>
 					</div>
 				</div>
