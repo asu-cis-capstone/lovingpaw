@@ -1,4 +1,6 @@
-<!-- In the store's Admin panel, click the "Settings" button, which will take you to the "general" page. Click the "Files" button, which will take to to the "files page". Click the "Upload files" button near the top right of the page. Navigate to \\TLP-Images\TLP-ResourcePage-Images. Select the image you would like to upload. ****Not Completed****MZ
+<!-- In the store's Admin panel, click the "Settings" button, which will take you to the "general" page. Click the
+"Files" button, which will take to to the "files page". Click the "Upload files" button near the top right of the page.
+Navigate to \\TLP-Images\TLP-ResourcePage-Images. Select the image you would like to upload. ****Not Completed****MZ
 
 Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources 
 --> 
@@ -10,7 +12,7 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p><a href="http://athletesforanimals.org/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAthletesForAnimalsLogo.jpg?4201062743367857525" alt="Arizona Humane Society"/></a></p>
+							<p><a href="http://athletesforanimals.org/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAthletesForAnimalsLogo.jpg?4201062743367857525" alt="Arizona Humane Society"/></a></p>
 						</div>
 					</div>
 				</div>
@@ -34,7 +36,7 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform"
 						<div class="grid-item medium--four-fifths">
-							<p><a href="http://www.azhumane.org/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesArizonaHumanSocietyLogo.jpg?4201062743367857525" /></a></p>
+							<p><a href="http://www.azhumane.org/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesArizonaHumanSocietyLogo.jpg?4201062743367857525" /></a></p>
 						</div>
 					</div>
 				</div>
@@ -57,7 +59,7 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p><a href="https://www.petfinder.com/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesPetFinderLogo.jpg?4201062743367857525" alt="Pet Finder" /></a></p>
+							<p><a href="https://www.petfinder.com/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesPetFinderLogo.jpg?4201062743367857525" alt="Pet Finder" /></a></p>
 						</div>
 					</div>
 				</div>
@@ -80,7 +82,7 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div>
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p><a href="http://www.adoptapet.com/" onclick="window.open(this.href); return false;"><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAdoptAPetLogo.jpg?4201062743367857525" alt="Adopt A Pet"  /></a></p>
+							<p><a href="http://www.adoptapet.com/" target="_blank" ><img src="//cdn.shopify.com/s/files/1/0760/5531/files/TLP-RP-ImagesAdoptAPetLogo.jpg?4201062743367857525" alt="Adopt A Pet"  /></a></p>
 						</div>
 					</div>
 				</div>
