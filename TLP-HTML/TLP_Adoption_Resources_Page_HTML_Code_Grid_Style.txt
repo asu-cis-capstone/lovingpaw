@@ -17,7 +17,7 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 				<div >
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">		
-							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+							<p>Athletes for Animals is a non-profit group of professional athletes who lend their voices to the animal adoption and rescue community.  In addition, they provide training and resources for people interested in adoption and raise funds for various adoption services.  Part of the revenues raised on this site go to supporting Athletes for Animals' mission!</p>
 						</div>
 					</div>
 				</div>
