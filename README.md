@@ -60,3 +60,5 @@ One of the clients goals is to increase profitability in order to increase donat
 * Next Steps:
   * Go live
   * Google Analytics
+
+* Video: https://youtu.be/LiksHJ0jVFk 
