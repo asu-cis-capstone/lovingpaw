@@ -48,3 +48,15 @@ One of the clients goals is to increase profitability in order to increase donat
   * Store
   * About Us
   * Contact Us
+
+#Release Notes v0.4
+
+* Review of Intial Project Overview
+  * Desired formatting changes
+  * Central hosting
+* Review of Accomplishments/Milestones
+  * Intial design
+  * User feedback/testing
+* Next Steps:
+  * Go live
+  * Google Analytics
