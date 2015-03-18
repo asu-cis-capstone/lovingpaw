@@ -37,7 +37,7 @@ Copy & paste into "Adoption Resources" page.  Path = Pages/Adoption Resources
 					</div>
 					<div class="grid--uniform">
 						<div class="grid-item medium--four-fifths">
-							<p>Athletes for Animals is a non-profit group of professional athletes who lend their voices to the animal adoption and rescue community. In addition, they provide training and resources for people interested in adoption and raise funds for various adoption services. Part of the revenues raised on this site go to supporting Athletes for Animals' mission!</p>
+							<p>The Arizona Animal Welfare League & SPCA have a mission "to create a world where there are no homeless dogs and cats".  Founded in 1971, they are Arizona's largets no-kill shelter and manage to rescue and find homes for 5000 animals yearly.  They are able to do this through a network of adopting families, rescuing from other local shelters and of course, from generous donations from the community.  Anyone who has any interest in the wonderful organization should give them a look. </p>
 						</div>
 					</div>
 				</a></div>
