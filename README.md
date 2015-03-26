@@ -69,4 +69,4 @@ One of the clients goals is to increase profitability in order to increase donat
 * Increased sales on Etsy, note Shopify
   * Issues taking store out of test mode
   * Removed test mode, now site works
-* Began designing tests/using SElenium
+* Began designing tests/using Selenium
