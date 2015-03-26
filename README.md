@@ -62,3 +62,11 @@ One of the clients goals is to increase profitability in order to increase donat
   * Google Analytics
 
 * Video: https://youtu.be/LiksHJ0jVFk 
+
+#Release Notes v0.5
+
+* Store is live
+* Increased sales on Etsy, note Shopify
+  * Issues taking store out of test mode
+  * Removed test mode, now site works
+* Began designing tests/using SElenium
