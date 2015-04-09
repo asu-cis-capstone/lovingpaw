@@ -75,3 +75,4 @@ One of the clients goals is to increase profitability in order to increase donat
 
 * Used Selenium & NUnit to create automated tests
 * Tests that each link exists and functions from the home page
+* Tests run automatically in Visual Studio Test Explorer
