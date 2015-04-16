@@ -70,3 +70,9 @@ One of the clients goals is to increase profitability in order to increase donat
   * Issues taking store out of test mode
   * Removed test mode, now site works
 * Began designing tests/using Selenium
+
+#Release Notes v0.6
+
+* Used Selenium & NUnit to create automated tests
+* Tests that each link exists and functions from the home page
+* Tests run automatically in Visual Studio Test Explorer
