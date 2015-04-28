@@ -49,6 +49,15 @@ One of the clients goals is to increase profitability in order to increase donat
   * About Us
   * Contact Us
 
+#Release Notes v0.3
+
+* Performed User Testing & Feedback Analysis
+  * Adjusted site color scheme per user feedback
+  * Added new site objects and functionality per user feedback
+  * Corrected typos	
+* Re-Performed User Testing & Feedback Analysis
+  * Received excellent feedback on the new site changes  
+
 #Release Notes v0.4
 
 * Review of Intial Project Overview
